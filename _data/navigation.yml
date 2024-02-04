@@ -20,16 +20,24 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "Home"
+    url: /
+  # - title: "About"
+  #   url: /about/
+  - title: "Our Team"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  # - title: "Quick-Start Guide"
+  #   url: /docs/quick-start-guide/
+  - title: "Our Robot"
+    url: /about/
+  - title: "Outreach"
+    url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Terms &amp; Privacy Policy"
+  #   url: /terms/
 
 
 # documentation links
